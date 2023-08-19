@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { DataGrid, GridColDef } from '@mui/x-data-grid'; // Use @mui/x-data-grid for the DataGrid and GridColDef
+import { DataGrid, GridColDef } from '@mui/x-data-grid';
 import { fetchPosts } from './ApiService';
 import { Post } from './model';
 

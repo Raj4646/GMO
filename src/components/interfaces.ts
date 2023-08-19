@@ -1,4 +1,3 @@
-// interfaces.ts
 export interface Subcategories {
   [subcategory: string]: boolean;
 }

@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';import Category from './Category';
+import { useNavigate } from 'react-router-dom';
+import Category from './Category';
 import PostsTable from './PostsTable'
 
 const SecondPage: React.FC = () => {
